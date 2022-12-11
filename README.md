@@ -1,3 +1,23 @@
+# **SOLUTION**
+
+Web urls exposed:
+- /importer/import
+- /importer/index
+
+Artisan commands exposed:
+- importer:import
+
+
+
+
+
+
+
+
+
+
+### ** Old readme below **
+
 # Test Task CRM-X
 
 This is a code extracted from a hypothetical complex CRM system "CRM-X"
